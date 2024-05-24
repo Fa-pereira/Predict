@@ -1,0 +1,30 @@
+[
+    {
+        "Fecha": "2023-01-01",
+        "Precio_Prediccion": 65
+    },
+    {
+        "Fecha": "2023-02-01",
+        "Precio_Prediccion": 59
+    },
+    {
+        "Fecha": "2023-03-01",
+        "Precio_Prediccion": 80
+    },
+    {
+        "Fecha": "2023-04-01",
+        "Precio_Prediccion": 81
+    },
+    {
+        "Fecha": "2023-05-01",
+        "Precio_Prediccion": 56
+    },
+    {
+        "Fecha": "2023-06-01",
+        "Precio_Prediccion": 55
+    },
+    {
+        "Fecha": "2023-07-01",
+        "Precio_Prediccion": 40
+    }
+]
