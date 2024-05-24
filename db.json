@@ -19,12 +19,4 @@
         "Fecha": "2023-05-01",
         "Precio_Prediccion": 56
     },
-    {
-        "Fecha": "2023-06-01",
-        "Precio_Prediccion": 55
-    },
-    {
-        "Fecha": "2023-07-01",
-        "Precio_Prediccion": 40
-    }
 ]
