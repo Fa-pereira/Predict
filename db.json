@@ -20,5 +20,12 @@
          "Fecha":"2023-05-01",
          "Precio_Prediccion":56
       }
+   ],
+   "info":[
+      {
+         "titulo":"Gráfico de Predicción de Precios",
+         "campoX":"Fecha",
+         "campoY":"Precio"
+      }
    ]
 }
