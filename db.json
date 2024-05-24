@@ -1,31 +1,91 @@
 {
-   "predicts":[
-      {
-         "Fecha":"2023-01-01",
-         "Precio_prom_ponderado":65
-      },
-      {
-         "Fecha":"2023-02-01",
-         "Precio_prom_ponderado":59
-      },
-      {
-         "Fecha":"2023-03-01",
-         "Precio_prom_ponderado":80
-      },
-      {
-         "Fecha":"2023-04-01",
-         "Precio_prom_ponderado":81
-      },
-      {
-         "Fecha":"2023-05-01",
-         "Precio_prom_ponderado":56
-      }
-   ],
-   "info":[
-      {
-         "titulo":"Gráfico de Predicción de Precios",
-         "campoX":"Fecha",
-         "campoY":"Precio_prom_ponderado"
-      }
-   ]
+  "predicts": [
+    {
+      "Fecha": "2023-01-01",
+      "Precio Predicción": 65
+    },
+    {
+      "Fecha": "2023-01-02",
+      "Precio Predicción": 59
+    },
+    {
+      "Fecha": "2023-01-03",
+      "Precio Predicción": 80
+    },
+    {
+      "Fecha": "2023-01-04",
+      "Precio Predicción": 81
+    },
+    {
+      "Fecha": "2023-01-05",
+      "Precio Predicción": 56
+    },
+    {
+      "Fecha": "2023-01-06",
+      "Precio Predicción": 70
+    },
+    {
+      "Fecha": "2023-01-07",
+      "Precio Predicción": 75
+    },
+    {
+      "Fecha": "2023-01-08",
+      "Precio Predicción": 68
+    },
+    {
+      "Fecha": "2023-01-09",
+      "Precio Predicción": 72
+    },
+    {
+      "Fecha": "2023-01-10",
+      "Precio Predicción": 63
+    },
+    {
+      "Fecha": "2023-01-11",
+      "Precio Predicción": 68
+    },
+    {
+      "Fecha": "2023-01-12",
+      "Precio Predicción": 79
+    },
+    {
+      "Fecha": "2023-01-13",
+      "Precio Predicción": 82
+    },
+    {
+      "Fecha": "2023-01-14",
+      "Precio Predicción": 67
+    },
+    {
+      "Fecha": "2023-01-15",
+      "Precio Predicción": 74
+    },
+    {
+      "Fecha": "2023-01-16",
+      "Precio Predicción": 78
+    },
+    {
+      "Fecha": "2023-01-17",
+      "Precio Predicción": 73
+    },
+    {
+      "Fecha": "2023-01-18",
+      "Precio Predicción": 69
+    },
+    {
+      "Fecha": "2023-01-19",
+      "Precio Predicción": 71
+    },
+    {
+      "Fecha": "2023-01-20",
+      "Precio Predicción": 77
+    }
+  ],
+  "info": [
+    {
+      "titulo": "Gráfico de Predicción de Precios",
+      "campoX": "Fecha",
+      "campoY": "Precio Predicción"
+    }
+  ]
 }
