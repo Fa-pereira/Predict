@@ -1,4 +1,4 @@
-[
+{
     {
         "Fecha": "2023-01-01",
         "Precio_Prediccion": 65
@@ -19,4 +19,4 @@
         "Fecha": "2023-05-01",
         "Precio_Prediccion": 56
     },
-]
+}
