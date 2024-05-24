@@ -2,23 +2,23 @@
    "predicts":[
       {
          "Fecha":"2023-01-01",
-         "Precio_Prediccion":65
+         "Precio_prom_ponderado":65
       },
       {
          "Fecha":"2023-02-01",
-         "Precio_Prediccion":59
+         "Precio_prom_ponderado":59
       },
       {
          "Fecha":"2023-03-01",
-         "Precio_Prediccion":80
+         "Precio_prom_ponderado":80
       },
       {
          "Fecha":"2023-04-01",
-         "Precio_Prediccion":81
+         "Precio_prom_ponderado":81
       },
       {
          "Fecha":"2023-05-01",
-         "Precio_Prediccion":56
+         "Precio_prom_ponderado":56
       }
    ],
    "info":[
