@@ -25,7 +25,7 @@
       {
          "titulo":"Gráfico de Predicción de Precios",
          "campoX":"Fecha",
-         "campoY":"Precio"
+         "campoY":"Precio_prom_ponderado"
       }
    ]
 }
